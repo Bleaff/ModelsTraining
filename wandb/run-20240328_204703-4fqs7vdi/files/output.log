@@ -1,0 +1,404 @@
+Freezing layer 'model.22.dfl.conv.weight'
+[34m[1mAMP: [39m[22mrunning Automatic Mixed Precision (AMP) checks with YOLOv8n...
+[34m[1mAMP: [39m[22mchecks passed ✅
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/165.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0622]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,1050b000e40d8e93.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0014]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,14512000241d04ce.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.2112      1.5375]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,1605100024a4975e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0018]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,1dc4e000cb5b67c3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0015]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,1ee1f00020973ebf.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0035]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,1fb49000659eaedc.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0014]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,22cb0000c1d877a4.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0086]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,2c5400009c9b0094.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0031]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,40f7000dd919364.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.2653      1.0023]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,6e4e000e5263185.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0029]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,71fa000f8d1f794.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.002]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,9deb0000f3913ac.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0004]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,abf9000779c8993.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.001]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273271,ca37000f36e2bf0.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0023]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,10177500068f778fb.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0089]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,1061720002486ebaa.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0024]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,10cd44000e77517f3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,10eced000cead4fd8.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,10f1b60006d757b58.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.1122      1.7311]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,1104c1000d6cced60.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0042]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,1132fd000d396f2fd.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0015]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,114d9600017c140fb.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0061]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,11861e000690e264d.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0078      1.0145]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,11f5b000dd7628b0.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0967]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,127251000abf0e7cc.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0023]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,12ad90000961131ff.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0083]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,131e6c000950a23c7.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.001]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,13581d000d8424f84.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,1365ec00029fc4e7c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0008      1.0028]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,13ada4000395a4704.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.4399       1.096]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,13e04f00024ee6368.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0024]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,13ef3e000c43f3ec6.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0023]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,14297b0007e9feaa0.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0205      1.0273]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,142c790007f2e1712.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,1476a60004172ecc3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.044      1.1585      1.2268]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,14780d000536a800e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0008]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,149e10009c8fd534.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.1037      1.0825]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,14b0340004648c69e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.6509       2.864       2.248      2.9671      2.2573      3.0219      2.3477      3.1959]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,1d6810006f72056e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.001]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,1e441000b026dcfb.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0009]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,21270000fc80ab10.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.3689      1.0889]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,25e0e000b9f394ae.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0017]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,2a9d00014030c01.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.001       1.001]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,2d808000e0c65892.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0021]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,31a73000945feaac.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0013]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,3856c000c5969c1e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.002]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,3d7740006ef6cc34.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0012]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,3f215000ce774ffd.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,40c3c000afe5f728.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0036]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,40d1e000a0d7687f.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0033]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,41198000cc515a48.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.002]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,43c21000978b16ee.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.001]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,458c60004eadcd4d.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.3188      1.9217]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,49a39000c986baf0.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0024]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,49f4000087307283.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0021]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,4cdb60003fbf0aa8.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.325      1.3126]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,4f525000f2b8b3de.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.003]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,5085200050ab4c82.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,524e500064a17580.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0078]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,549f50009811f8ca.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.043      1.2077      1.6925]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,599ad0002c6d8d76.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0019]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,5f07f0001e720351.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0017]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,5f30e0008e03ce8d.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0031]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,5f5a9000b1c91bea.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0929]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,6295b0003a21f0a7.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0031]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,63238000772dd401.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0021]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,652b10000cf0bd82.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,69642000534cebfb.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0192]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,6bdc5000fded2e10.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0017]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,6e980000895a22dc.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0017]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,713b500034e17edd.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.4934      2.0728]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,71406000bb7efebb.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0024]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,75a3e0001c4fd39b.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0043]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,7cf41000cfb00518.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0011]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,7dea5000204fa91d.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0021]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,7dec400081a27513.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0017]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,831d000414562a3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.001]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,84f12000f327cceb.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,8a79800016341149.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0017]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,8d9c9000e0f33fdc.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0013]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,90382000cf8d60da.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.2478      1.3233]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,91ac1000c7870866.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0052]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,922cf00088290600.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0006]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,92a4200001e05574.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0007]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,94cdb00089d95778.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,94f15000df67785e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.3458      2.2239]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,9baed000fcc0aab2.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.123      1.2946      1.8527      1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,9f287000515fde18.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.3132]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,9fb460004471259c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0072]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,9ff630008646b3cc.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,ad657000191f73fc.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.2966      1.3644      1.0835]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,b1d2d0007aeb0a1a.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0045]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,b39df0008c1f49c6.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.3989]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,bb1c900032feeb91.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.3537]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,ca89c000265dd0df.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0022]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,d71a900015d59f10.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0042]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,dbe84000d70c05b7.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0031]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,e1d360001ad83910.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0861      1.3944]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,e9c55000126a6f37.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.002]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,ea3350001cb1d670.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0013]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,ec3a70004a15288c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0042      1.0021]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273275,fd7ef000ad2aeb26.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0021]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,100fa0000f09c0e30.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0034]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,10d631000261ef421.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,11536d00078fde41d.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.015]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,119bb7000c12b8eb3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0017]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,11d5c3000178785a5.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,11e6300003ce423d1.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.3887      1.0023]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,11ec5d0005174e9ca.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0272]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,11ed5c000197a7364.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0035]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,12fe65000560e9d4d.jpg: 1 duplicate labels removed
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,144bcc000e563ebdc.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.007]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,18445000a5da2d7c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.001]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,18e2e0001a43ab63.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0933      1.1618      1.4568]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,1b22e00046ba4ca0.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      2.116]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,247b9000443f97b5.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.002]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,25b7a000682d948d.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.005]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,34f4f000c38c398a.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0031]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,36a85000d1aca484.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0054      1.0018]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,39188000f24c9731.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0031]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,3adcf0008214f948.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0051]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,3ae99000458ec616.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0052]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,3dab4000325fab30.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0022]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,409be00042964a9d.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0012]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,44f3700059f2aa8e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.003       1.001]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,5c246000622d2795.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.001]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,61331000fe77bcde.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0065]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,61e230002f1d275a.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0068]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,648fd0002809c486.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0023]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,673a3000db19bff8.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0052]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,69a8b000febacb1a.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.1417]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,6c40800000ebba45.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0013]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,75de9000b0ac8d8c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0057]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,76cca000256aa612.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,795f200007aec66a.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.004]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,7d4fa00040843da9.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0015]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,80ac4000e74b6612.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0041]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,82a78000a4bdfc46.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0013]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,8417300005a70d0c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0083      1.0026]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,874a20004ca0cbe5.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0032]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,89e8c00014c433d3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0156]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,8d231000e09fc133.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0015]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,8d2f000000303504.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0011]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,901d0000f23a4e9e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0059]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,913350003b183e00.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0075]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,99b63000963576c6.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0093]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,99ba8000d939bbf3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0037]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,9b9010008c618074.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.001]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,9ce130001ccdf9e6.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0015]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,a14e60006bcc7e95.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.001]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,a3ac80009c591b2e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0048]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,a79fe000fa06bea7.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0005]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,afef3000d03e4ab5.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.005      1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,b35a50009ed94db7.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0024]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,b45ae0006ad0ccb4.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0015]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,b5d16000011d18a1.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0043]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,b5d8a000f416b92b.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0048      1.0216]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,b8339000cad459da.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0032]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,b84b500046003f98.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0048]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,ba6f6000eec65457.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.002]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,bc007000c2be4132.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.003]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,c58890002730d04e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0015]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,c7d2d00028ec24c8.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0014]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,c88e10004d04d198.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0067]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,cb03d00025de7c2c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0015]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,cb8270008559ebfc.jpg: ignoring corrupt image/label: negative label values [   -0.11377]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,ccfe7000a941c025.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0944      1.7869]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,d30ae000416b4f14.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0015]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,d55e80001820386b.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0008]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,d6f670003393a3a5.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0102]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,db2c50000e9c9189.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0243]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,dfafb000b09dae53.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0017]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,dfe6a00045ef9c30.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0007]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,e35bc000a8b6647c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0037]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,e3ed1000946dde7c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0035]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,e51400009f6a0c38.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0033]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,e6ebc000180a42c3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,e9be100099c2b011.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0043]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,ecaca000a250f433.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0127]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,f1b9d000f7c96ccb.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0094]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/273278,fe58100097999255.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0008]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,1014d7000cc2938d9.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0313      1.6734]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,103940009a115bc9.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0063]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,105dbd000820af0e0.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0005]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,1089f000ed30bd92.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.003        1.02]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,11255c000f8310494.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0339]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,117c26000fd1aa019.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.4323      2.1021]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,118ee70002898c12e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0031]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,11e7a10002fb00cc0.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,1218f00053877316.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016      1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,137b4000b564ac79.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0005]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,14691000173c3bf9.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0019]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,15b400002cda2cb6.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0008]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,15bbf000218910b3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0044      1.0022]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,1b4fa000420b40a7.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0014]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,1c5de000bb4cbf23.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0027]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,1c7970000dc2c1b3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.003      1.0045]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,1d30d0003f270fbd.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0765      1.8914]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,1d3b100025b7fbfe.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.5647]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,1e45600078ad17b1.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0076]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,1e5f7000c479116e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0015       1.002]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,1ef3800079d7eb7a.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0092]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,234e7000f6bbe722.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.004]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,24cba000a87f1aa8.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0032]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,26728000381e9d04.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0022]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,27a5400045078367.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0003]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,2a71a0001dd3b585.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.002]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,2b153000325660c2.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0018]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,2c00200098b89c6e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0008]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,31b4c000705152f6.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.006]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,4065200077aa0a27.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0069]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,44d2c000e99bc0ab.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.1262]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,5e1f5000e60294f7.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0044]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,64195000033e9a96.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0915      1.0157]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,6f02b000087aee72.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.3281         1.2]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,78b2500059fb862f.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,833a70005c13c393.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0017]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,913af000bed6521c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0063]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,925c7000e8192aa7.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,9825e0005ec48d2a.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,9829700088e84764.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0013]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,9b1da0002307d46f.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0025      1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,9b9ec0005be2542e.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.6727      2.7266]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,9ffe3000a40ac4df.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0069]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,a1a3a0000bc6ebcd.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,a1b58000542d603c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,ab479000cc13b114.jpg: ignoring corrupt image/label: negative label values [-0.00046729]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,ab51700022d2faab.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0117]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,ab631000cc74a86c.jpg: 1 duplicate labels removed
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,b2d9f0002847c99d.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0008]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,b418c0004a326bac.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0017      1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,b4deb00074fd0e45.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0017]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,bd09c0006cdc9717.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0058]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,bf12c000f7803776.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0316      1.1093]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,c5f88000116b0f1f.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0023]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,cc42000c73f642f.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0019]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,d421800085951268.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0013]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,d912e00083b9a7d1.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0421]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,db4d000ba4aa7dc.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0024      1.0132]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,dce3000fb62cc99.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0113      1.0035]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,dfdc900068089e43.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0048]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,e038000ead6f902.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0021      1.0065]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,e2da00015e79d36.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.001]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,e9676000d8143193.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0035]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,ea08000538c2d46.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.1012]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,ec190002287cf20.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/282555,ed59000536d6d37.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0141      1.0141]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283081,106b80005e781890.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0031]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283081,11f7d0000859171f.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0006]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283081,1548d00030c29b7c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0044]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283081,48de000f0ef3e2c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0091]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283081,8b170000098e5a3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0017]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283081,acc3000a2dec97c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0013]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283081,ae56000aa99d429.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.032      1.4109]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283081,f4d000c183be7c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0061       1.003]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283554,1f6050005600cd76.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0369]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283554,22b3900063a6617b.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0094]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283554,22c2200051ec4922.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0056]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283554,2cc090006214ed2f.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.575]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283554,2f4c2000cf485273.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283554,30e70005005c408.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0035]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283554,a20a000423a4340.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0228      1.1416]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283554,ae970004fad7aff.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0019]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283647,10fbf0006fd11fc9.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0556]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283647,1351b000e97228c2.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283647,7fa5000e8165f77.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0009]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283991,1952d00075968ee5.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.249      1.0438]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283991,195d5000be4db018.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0042]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283991,1b19a000d0b11ea3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.004]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283991,1ba5f0002d277f0a.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.365       1.163      1.1843      1.0864]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283991,1df0b000744a80a3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [      1.074]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283991,1e02b00054f665c4.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.4344      1.9021]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283991,1e4eb0007633dfc6.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0043]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283991,2241f0009d6f1f16.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0291]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283991,4a8300014bb4adb.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.3135      2.1937]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,127b1000502101de.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0021      1.0021]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,1c340002666c73c.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0021]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,23170005da4708b.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0042]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,293f000664cdc00.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0635      1.8771]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,555700019be676a.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.2641      1.5563]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,7133000ef7fcdb1.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.4208]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,8e830006cb2af43.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0048]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,a4c90009e323609.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0187]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,c1ea0000345181d.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0965      1.2214]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,c56000a0e28cf1.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.1198      1.3229]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,cd52000a9d6bc67.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0376      1.3792]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,daa8000f7c032d2.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.1406      1.1479]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,ee9000556e431b.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0042]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/283992,f24000ca88efa3.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.3438]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,1bcc900044a6efb0.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.1552      1.7229]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,1c06a0006b5e5a06.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0036]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,1d0b6000ba2549e2.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0019]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,1d9c600030e0e0a2.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0081]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,1f1f9000ccb004d2.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0013]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,20d3d000bb634e54.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0016]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,211f2000f9c8b1f0.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0013]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,233f00008ef642c7.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0015]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,23f0005477e99d.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0042]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,2799d0000ce2fe0f.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0025]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,2df8000dbfa6653.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0067]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,48d80001addbbba.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0187]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,91f7000a46774c0.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0014]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,a34f0008818d5b0.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0164]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,a53f000502955bc.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0063]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,a550000fa4b6453.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0021]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/284193,c2f10002ab2c059.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0896      1.2125]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/487.jpg: ignoring corrupt image/label: non-normalized or out of bounds coordinates [     1.0585]
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/helmet_000044.jpg: 1 duplicate labels removed
+[34m[1mtrain: [39m[22mWARNING ⚠️ /home/bleaf/train_people/merged_dataset_people/train/images/helmet_001068.jpg: 1 duplicate labels removed
+[34m[1mtrain: [39m[22mScanning /home/bleaf/train_people/merged_dataset_people/train/labels.cache... 29894 images, 17 backgrounds, 306 corrupt: 100%|██████████| 29895/29895 [00:00<?, ?it/s]
+[34m[1mval: [39m[22mScanning /home/bleaf/train_people/merged_dataset_people/valid/labels.cache... 0 images, 5900 backgrounds, 0 corrupt: 100%|██████████| 5900/5900 [00:00<?, ?it/s]
+WARNING ⚠️ No labels found in /home/bleaf/train_people/merged_dataset_people/valid/labels.cache, training may not work correctly. See https://docs.ultralytics.com/datasets/detect for dataset formatting guidance.
+Plotting labels to /home/bleaf/Desktop/leanring/yolov8-face/runs/detect/yolov8n_v8_50e4/labels.jpg...
+[34m[1moptimizer:[39m[22m 'optimizer=auto' found, ignoring 'lr0=0.01' and 'momentum=0.937' and determining best 'optimizer', 'lr0' and 'momentum' automatically...
+[34m[1moptimizer:[39m[22m SGD(lr=0.01, momentum=0.9) with parameter groups 77 weight(decay=0.0), 84 weight(decay=0.0005), 83 bias(decay=0.0)
+Image sizes 640 train, 640 val
+Using 8 dataloader workers
+Logging results to [1m/home/bleaf/Desktop/leanring/yolov8-face/runs/detect/yolov8n_v8_50e4
+Starting training for 50 epochs...
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       1/50        16G      1.268      1.243      1.233        976        640:  11%|█         | 101/925 [01:11<09:42,  1.42it/s]
+Traceback (most recent call last):
+  File "/home/bleaf/train_people/train.py", line 7, in <module>
+    results = model.train(
+              ^^^^^^^^^^^^
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/ultralytics/engine/model.py", line 601, in train
+    self.trainer.train()
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/ultralytics/engine/trainer.py", line 208, in train
+    self._do_train(world_size)
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/ultralytics/engine/trainer.py", line 376, in _do_train
+    self.loss, self.loss_items = self.model(batch)
+                                 ^^^^^^^^^^^^^^^^^
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/ultralytics/nn/tasks.py", line 82, in forward
+    return self.loss(x, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/ultralytics/nn/tasks.py", line 261, in loss
+    return self.criterion(preds, batch)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/ultralytics/utils/loss.py", line 221, in __call__
+    _, target_bboxes, target_scores, fg_mask, _ = self.assigner(
+                                                  ^^^^^^^^^^^^^^
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/ultralytics/utils/tal.py", line 72, in forward
+    mask_pos, align_metric, overlaps = self.get_pos_mask(
+                                       ^^^^^^^^^^^^^^^^^^
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/ultralytics/utils/tal.py", line 92, in get_pos_mask
+    mask_in_gts = self.select_candidates_in_gts(anc_points, gt_bboxes)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bleaf/train_people/.venv/lib/python3.11/site-packages/ultralytics/utils/tal.py", line 227, in select_candidates_in_gts
+    bbox_deltas = torch.cat((xy_centers[None] - lt, rb - xy_centers[None]), dim=2).view(bs, n_boxes, n_anchors, -1)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 1.74 GiB. GPU 0 has a total capacity of 15.70 GiB of which 1.57 GiB is free. Including non-PyTorch memory, this process has 13.65 GiB memory in use. Of the allocated memory 12.29 GiB is allocated by PyTorch, and 1.11 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)

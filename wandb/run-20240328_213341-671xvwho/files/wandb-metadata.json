@@ -1,0 +1,162 @@
+{
+    "os": "Linux-6.5.0-26-generic-x86_64-with-glibc2.35",
+    "python": "3.11.8",
+    "heartbeatAt": "2024-03-28T18:33:42.566144",
+    "startedAt": "2024-03-28T18:33:41.766518",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/bleaf/train_people/train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "host": "bleaf",
+    "username": "bleaf",
+    "executable": "/home/bleaf/train_people/.venv/bin/python3",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 2582.6724166666663,
+        "min": 2200.0,
+        "max": 3100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 4334.797,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2571.518,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2557.181,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 4264.361,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2479.346,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 4339.446,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2480.87,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2795.841,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 1862.375,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3035.501,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3104.591,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3526.647,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2442.958,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3100.0,
+            "min": 2200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3100.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 173.14895629882812,
+            "used": 161.07962036132812
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4060 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4060 Ti",
+            "memory_total": 17175674880
+        }
+    ],
+    "memory": {
+        "total": 31.252601623535156
+    }
+}
